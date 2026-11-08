@@ -147,7 +147,7 @@ Bu komut Python 3.12'yi ve projenin ihtiyaç duyduğu tüm kütüphaneleri otoma
 uv run pytest
 ```
 
-Bu komut projenin otomatik testlerini çalıştırır. Sonunda **`passed`** kelimesini görmelisin (örneğin `15 passed` gibi; sayı test sayısına göre değişir). `failed` veya `error` görürsen bu kurulumda bir sorun var demektir; Claude'a veya bana haber ver.
+Bu komut projenin otomatik testlerini çalıştırır. Sonunda **`passed`** kelimesini görmelisin (örneğin `18 passed` gibi; testler eklendikçe sayı artar). `failed` veya `error` görürsen bu kurulumda bir sorun var demektir; Claude'a veya bana haber ver.
 
 ### 5c. Günlük özeti gör
 
